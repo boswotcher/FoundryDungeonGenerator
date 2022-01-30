@@ -1,0 +1,15 @@
+{
+    "name": "Foundry Dungeon Generator",
+    "title": "Foundry Dungeon Generator",
+    "description": "Random dungeon generator for Foundry VTT",
+    "author": "boswotcher | superbleh",
+    "version": "0.0.1",
+    "minimumCoreVersion": "9.242",
+    "compatibleCoreVersion": "9.242",
+    "scripts": [
+        "init.js"
+    ],
+    "url": "https://github.com/boswotcher/FoundryDungeonGenerator",
+    "manifest": "",
+    "download": ""
+}
