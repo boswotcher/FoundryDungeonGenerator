@@ -3,13 +3,13 @@
     "title": "Foundry Dungeon Generator",
     "description": "Random dungeon generator for Foundry VTT",
     "author": "boswotcher | superbleh",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "minimumCoreVersion": "9.242",
     "compatibleCoreVersion": "9.242",
     "scripts": [
         "init.js"
     ],
     "url": "https://github.com/boswotcher/FoundryDungeonGenerator",
-    "manifest": "https://github.com/boswotcher/FoundryDungeonGenerator/releases/download/v0.0.3/module.json",
-    "download": "https://github.com/boswotcher/FoundryDungeonGenerator/releases/download/v0.0.3/FoundryDungeonGenerator.zip"
+    "manifest": "https://github.com/boswotcher/FoundryDungeonGenerator/releases/download/v0.0.4/module.json",
+    "download": "https://github.com/boswotcher/FoundryDungeonGenerator/releases/download/v0.0.4/FoundryDungeonGenerator.zip"
 }
